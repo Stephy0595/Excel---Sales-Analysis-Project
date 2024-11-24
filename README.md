@@ -6,7 +6,7 @@ The dataset is contained in the Excel file named Bike Sales Data.xlsx, featuring
 
 ID: Unique identifier for each entry
 
-Marital Status: Indicates the marital status of customers
+Marital Status:Indicates the marital status of customers
 
 Gender: Gender of the customers
 
